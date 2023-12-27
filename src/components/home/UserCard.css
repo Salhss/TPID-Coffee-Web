@@ -1,0 +1,5 @@
+.card-container {
+    background-image: url('../assets/motif.png');
+    background-position: center;
+    background-size: cover;
+}
